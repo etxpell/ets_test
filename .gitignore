@@ -1,0 +1,7 @@
+*.beam
+*~
+out
+./doc
+.cmake.state
+doc
+*.contrib*
